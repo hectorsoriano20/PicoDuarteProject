@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=TOLOLONPORTATIL\SQLSERVER;AttachDbFilename="C:\Users\josem\source\repos\Pico Duarte\Pico Duarte\App_Data\DB.mdf"</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>4b472fcc-57b2-4b28-b5ba-a085be038baa</DataSourceID>
+</RptDataSource>
